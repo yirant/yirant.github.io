@@ -106,6 +106,7 @@ export default {
   },
 
   head: [
+    // 保留原有的 Google Analytics 脚本
     [
       'script',
       { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-L80F9522RJ' }
@@ -117,6 +118,23 @@ export default {
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-L80F9522RJ');`
+    ],
+    // 添加自定义样式来调整 logo 尺寸
+    [
+      'style',
+      {},
+      `
+      .VPNavBarTitle .logo {
+        height: 50px !important;
+        width: auto !important;
+      }
+      @media (max-width: 768px) {
+        .VPNavBarTitle .logo {
+          height: 32px !important;
+        }
+      }
+      `
     ]
   ]
 }
+
