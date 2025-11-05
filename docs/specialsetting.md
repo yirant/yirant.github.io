@@ -11,10 +11,10 @@
 
 - __道具掉落__
 
-无论角色属相是正义(<font color=#1E90FF>蓝名</font>)、邪恶(<font color=Red>红名</font>)，PK被玩家击杀均是 <font color=Red>25%</font> 几率掉落背包内 1-5个 物品
+无论角色属相是正义(<font color=#1E90FF>蓝名</font>)、邪恶(<font color=Red>红名</font>)，PK被玩家击杀 <font color=Red>25%</font> 几率掉落背包内 1-5个 物品
 - __技能掉落__
 
-无论角色属相是正义(<font color=#1E90FF>蓝名</font>)、邪恶(<font color=Red>红名</font>)，PK被击杀<font color=Red>会100%</font>几率掉落 1-70 个技能
+无论角色属相是正义(<font color=#1E90FF>蓝名</font>)、邪恶(<font color=Red>红名</font>)，PK被击杀 <font color=Red>100%</font> 几率掉落 1-70 个技能
 
 - __PVP战斗保护卷__
 
