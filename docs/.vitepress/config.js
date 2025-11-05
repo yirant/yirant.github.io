@@ -8,7 +8,10 @@ export default {
     siteTitle: false,
     logo:'./logo.png',
     nav: [
-      { text: 'Home', link: '/' },
+      { text: '首页', link: '/' },
+      { text: '掉宝查询', link: '/drop' },
+      { text: '击杀查询', link: '/pk' },
+      { text: '怪物掉落', link: '/droplist' },
       {
         text: '快速导航',
         items: [
@@ -37,6 +40,15 @@ export default {
           { text: '基础设定', link: '/basicsetting' },
           { text: '特色系统', link: '/specialsetting' },
           { text: '依燃Plus', link: '/yiranplus' },
+        ]
+      },
+      {
+        text: '实时数据',
+        collapsed: false,
+        items: [
+          { text: '掉宝查询', link: '/drop' },
+          { text: '击杀查询', link: '/pk' },
+          { text: '怪物掉落', link: '/droplist' },
         ]
       },
       {
