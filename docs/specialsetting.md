@@ -11,16 +11,16 @@
 
 - __道具掉落__
 
-无论角色属相是正义(<font color=#1E90FF>蓝名</font>)、邪恶(<font color=Red>红名</font>)，PK被玩家击杀均是 <font color=Red>25%</font> 几率掉落背包内物品
+无论角色属相是正义(<font color=#1E90FF>蓝名</font>)、邪恶(<font color=Red>红名</font>)，PK被玩家击杀均是 <font color=Red>25%</font> 几率掉落背包内 1-5个 物品
 - __技能掉落__
 
-属相正义(<font color=#1E90FF>蓝名</font>)PK被击杀<font color=#1E90FF>不会掉落</font>技能、只有属相邪恶(<font color=Red>红名</font>)PK被击杀<font color=Red>会25%</font>几率掉落技能
+无论角色属相是正义(<font color=#1E90FF>蓝名</font>)、邪恶(<font color=Red>红名</font>)，PK被击杀<font color=Red>会100%</font>几率掉落 1-70 个技能
 
 - __PVP战斗保护卷__
 
     - 元宝神秘商店可购买
     - 背包内拥有`PVP战斗保护卷`被玩家击杀后不会损失`经验`、`道具`、`技能` 
-    - 击杀拥有`PVP战斗保护卷`的玩家获得`3`元宝奖励 且不会<font color=Red>红名</font>惩罚
+    - 击杀拥有`PVP战斗保护卷`的玩家获得`4`元宝奖励 且不会<font color=Red>红名</font>惩罚
 
 - __属相加成__
 
