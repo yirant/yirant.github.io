@@ -260,7 +260,7 @@ const props = defineProps({
 })
 
 // API 配置
-const API_BASE = 'http://43.138.153.64:3001/api'
+const API_BASE = 'https://api.yirant.com/api'
 
 // 响应式数据
 const data = ref([])
