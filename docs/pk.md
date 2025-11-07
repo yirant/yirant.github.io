@@ -10,6 +10,7 @@ description: 实时查询游戏PK记录
   fields="pcName,nacName,mapName,time" 
   orderBy="id DESC" 
   dataRange="15d"
+  :showStatistics="true"
   :fieldAliases="{
     pcName: '胜者',
     nacName: '败者',

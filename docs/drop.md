@@ -10,6 +10,7 @@ description: 实时查询游戏掉宝记录
   fields="pcName,itemName,count,s,time" 
   orderBy="id DESC" 
   dataRange="31d"
+  :showStatistics="true"
   :fieldAliases="{
     pcName: '玩家',
     itemName: '道具',

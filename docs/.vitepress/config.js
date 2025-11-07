@@ -11,7 +11,6 @@ export default {
       { text: '首页', link: '/' },
       { text: '掉宝查询', link: '/drop' },
       { text: '击杀查询', link: '/pk' },
-      { text: '怪物掉落', link: '/droplist' },
       {
         text: '快速导航',
         items: [
