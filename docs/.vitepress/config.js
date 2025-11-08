@@ -86,7 +86,16 @@ export default {
             collapsed: false,
             items: [
               { text: '项链', link: 'armor-amulet' },
-              { text: '耳环', link: 'armor-earring' },   
+              { text: '耳环', link: 'armor-earring' },              
+              { text: '戒指', link: 'armor-ring' }, 
+              { text: '腰带', link: 'armor-belt' }, 
+              { text: '头盔', link: 'armor-helm' }, 
+              { text: '盔甲', link: 'armor-armor' }, 
+              { text: '长靴', link: 'armor-boots' }, 
+              { text: '斗篷', link: 'armor-cloak' }, 
+              { text: '盾牌', link: 'armor-shield' }, 
+              { text: '衬衫', link: 'armor-shirt' }, 
+              { text: '套装', link: 'armor-set' }, 
             ]
           }
         ]

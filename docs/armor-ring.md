@@ -1,0 +1,44 @@
+# 戒指 Ring
+| 名称 | 基础 | 属性| 职业 |
+| :--: | :--- | :---| :--- |
+| <center><img src="/armor/a217.jpg"/></center> 象牙塔戒指 | 防御：-1<br>安定：0<br>材质：宝石 | 不可转移 | 所有职业 |
+| <center><img src="/armor/a531.png"/></center> 修好的戒指 | 防御：0<br>安定：0<br>材质：骨头 | 魔力上限 +5 | 所有职业 |
+| <center><img src="/armor/a532.png"/></center> 守护者的戒指 | 防御：0<br>安定：0<br>材质：金 | 体力上限 +30<br>魔力上限 +20<br>限制等级：Lv.45 | 王族 |
+| <center><img src="/armor/a533.png"/></center> 变形怪首领之戒(左) | 防御：0<br>安定：0<br>材质：木 | 变身：骷髅 | 妖精<br>法师 |
+| <center><img src="/armor/a534.png"/></center> 变形怪首领之戒(右) | 防御：0<br>安定：0<br>材质：木 | 变身：妖魔斗士 | 王族<br>骑士<br>黑暗妖精 |
+| <center><img src="/armor/a535.png"/></center> 变形控制戒指 | 防御：0<br>安定：0<br>材质：金 | 使用变身术或变形魔杖，<br>可以指定要变身的怪物 | 所有职业 |
+| <center><img src="/armor/a536.png"/></center> 召唤控制戒指 | 防御：0<br>安定：0<br>材质：金 | 能选择召唤的怪物 | 法师 |
+| <center><img src="/armor/a537.png"/></center> 传送控制戒指 | 防御：0<br>安定：0<br>材质：金 | 使用传送术或传送道具时，<br>可以指定传送到曾经记忆过的地点 | 所有职业 |
+| <center><img src="/armor/a540.png"/></center> 抗魔戒指 | 防御：0<br>安定：0<br>材质：金 | 魔法防御 +5 | 所有职业 |
+| <center><img src="/armor/a539.png"/></center> 灭魔戒指 | 防御：0<br>安定：0<br>材质：金 | 魔法防御 +10 | 所有职业 |
+| <center><img src="/armor/a541.png"/></center> 地灵戒指 | 防御：0<br>安定：0<br>材质：金 | 地属性防御 +30 | 所有职业 |
+| <center><img src="/armor/a542.png"/></center> 水灵戒指 | 防御：0<br>安定：0<br>材质：金 | 水属性防御 +30 | 所有职业 |
+| <center><img src="/armor/a543.png"/></center> 火灵戒指 | 防御：0<br>安定：0<br>材质：金 | 火属性防御 +30 | 所有职业 |
+| <center><img src="/armor/a544.png"/></center> 风灵戒指 | 防御：0<br>安定：0<br>材质：金 | 风属性防御 +30 | 所有职业 |
+| <center><img src="/armor/a545.png"/></center> 深渊戒指 | 防御：0<br>安定：0<br>材质：白金 | 魔力回复量 +1<br>睡眠耐性 +8 | 所有职业 |
+| <center><img src="/armor/a547.png"/></center> 受诅咒的钻石戒指 | 防御：0<br>安定：0<br>材质：金 | 体质 -1<br>精神 -1<br>魔法防御 +10 | 所有职业 |
+| <center><img src="/armor/a548.png"/></center> 受诅咒的红宝石戒指 | 防御：2<br>安定：0<br>材质：金 | 体力回复量 +1<br>魔力回复量+1 | 所有职业 |
+| <center><img src="/armor/a549.png"/></center> 受诅咒的蓝宝石戒指 | 防御：0<br>安定：0<br>材质：金 | 石化耐性 +5<br>火属性防御 -10<br>水属性防御 -10<br>风属性防御 -10<br>地属性防御 -10 | 所有职业 |
+| <center><img src="/armor/a550.png"/></center> 受诅咒的绿宝石戒指 | 防御：0<br>安定：0<br>材质：金 | 体力上限 +25 | 所有职业 |
+| <center><img src="/armor/a551.png"/></center> 洁尼斯戒指 | 防御：0<br>安定：0<br>材质：金 | 防护中毒状态 | 所有职业 |
+| <center><img src="/armor/a552.png"/></center> 死亡的誓约 | 防御：-1<br>安定：0<br>材质：宝石 | 体力回复量 +2<br>魔力回复量 -2<br>限制等级：Lv.48 | 所有职业 |
+| <center><img src="/armor/a553.png"/></center> 伊莉丝戒指 | 防御：0<br>安定：0<br>材质：金 | 体力上限 +15<br>魔法防御 +5<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a538.png"/></center> 蕾雅戒指 | 防御：5<br>安定：0<br>材质：宝石 |  | 所有职业 |
+| <center><img src="/armor/a546.png"/></center> 火焰之影戒指 | 防御：0<br>安定：0<br>材质：骨头 | 套装<br>不可转移<br>限制等级：LV.52 | 所有职业 |
+| <center><img src="/armor/a554.png"/></center> 土灵戒指(男爵) | 防御：0<br>安定：不可强化<br>材质：金 | 体力上限 +5<br>魔法防御 +2<br>地属性防御 +5<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a555.png"/></center> 水灵戒指(男爵) | 防御：0<br>安定：不可强化<br>材质：金 | 体力上限 +5<br>魔法防御 +2<br>水属性防御 +5<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a556.png"/></center> 火灵戒指(男爵) | 防御：0<br>安定：不可强化<br>材质：金 | 体力上限 +5<br>魔法防御 +2<br>火属性防御 +5<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a557.png"/></center> 风灵戒指(男爵) | 防御：0<br>安定：不可强化<br>材质：金 | 体力上限 +5<br>魔法防御 +2<br>风属性防御 +5<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a554.png"/></center> 土灵戒指(伯爵) | 防御：0<br>安定：不可强化<br>材质：金 | 体力上限 +10<br>魔法防御 +4<br>地属性防御 +10<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a555.png"/></center> 水灵戒指(伯爵) | 防御：0<br>安定：不可强化<br>材质：金 | 体力上限 +10<br>魔法防御 +4<br>水属性防御 +10<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a556.png"/></center> 火灵戒指(伯爵) | 防御：0<br>安定：不可强化<br>材质：金 | 体力上限 +10<br>魔法防御 +4<br>火属性防御 +10<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a557.png"/></center> 风灵戒指(伯爵) | 防御：0<br>安定：不可强化<br>材质：金 | 体力上限 +10<br>魔法防御 +4<br>风属性防御 +10<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a554.png"/></center> 土灵戒指(公爵) | 防御：0<br>安定：不可强化<br>材质：金 | 支撑耐性 +1<br>体力上限 +15<br>魔法防御 +6<br>地属性防御 +15<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a555.png"/></center> 水灵戒指(公爵) | 防御：0<br>安定：不可强化<br>材质：金 | 寒冰耐性 +1<br>体力上限 +15<br>魔法防御 +6<br>水属性防御 +15<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a556.png"/></center> 火灵戒指(公爵) | 防御：0<br>安定：不可强化<br>材质：金 | 昏迷耐性 +1<br>体力上限 +15<br>魔法防御 +6<br>火属性防御 +15<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a557.png"/></center> 风灵戒指(公爵) | 防御：0<br>安定：不可强化<br>材质：金 | 睡眠耐性 +1<br>体力上限 +15<br>魔法防御 +6<br>风属性防御 +15<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a554.png"/></center> 土灵戒指(君主) | 防御：0<br>安定：0<br>材质：金 | 支撑耐性 +2<br>体力上限 +20<br>体力回复量 +1<br>魔法防御 +10<br>地属性防御 +20<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a555.png"/></center> 水灵戒指(君主) | 防御：0<br>安定：0<br>材质：金 | 寒冰耐性 +2<br>体力上限 +20<br>体力回复量 +1<br>魔法防御 +10<br>水属性防御 +20<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a556.png"/></center> 火灵戒指(君主) | 防御：0<br>安定：0<br>材质：金 | 昏迷耐性 +2<br>体力上限 +20<br>体力回复量 +1<br>魔法防御 +10<br>火属性防御 +20<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a557.png"/></center> 风灵戒指(君主) | 防御：0<br>安定：0<br>材质：金 | 睡眠耐性 +2<br>体力上限 +20<br>体力回复量 +1<br>魔法防御 +10<br>风属性防御 +20<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a558.png"/></center> 曼波兔戒指 | 防御：2<br>安定：0<br>材质：骨头 | 魔法防御 +10 | 所有职业 |
