@@ -1,5 +1,52 @@
 # 头盔 Helmet
-
-🚧 暂未完成 先等等
-
-🚀 正已火箭的速度在编辑了！
+| 名称 | 基础 | 属性| 职业 |
+| :--: | :--- | :---| :--- |
+| <center><img src="/armor/a028.png"/></center> 象牙塔皮头盔 | 防御：-1<br>安定：不可强化<br>材质：布 | 体力上限 +10<br>魔力上限 +5<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a051.png"/></center> 泡水的头具 | 防御：-1<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
+| <center><img src="/armor/a007.png"/></center> 侏儒铁盔 | 防御：-2<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
+| <center><img src="/armor/a034.png"/></center> 欧西斯头盔 | 防御：-1<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
+| <center><img src="/armor/a001.png"/></center> 皮帽子 | 防御：0<br>安定：4<br>材质：皮 | 套装 | 所有职业 |
+| <center><img src="/armor/a043.png"/></center> 钢盔 | 防御：-1<br>安定：4<br>材质：铁 |  | 所有职业 |
+| <center><img src="/armor/a002.png"/></center> 皮头盔 | 防御：-1<br>安定：4<br>材质：皮 |  | 所有职业 |
+| <center><img src="/armor/a028.png"/></center> 银钉皮帽 | 防御：-2<br>安定：4<br>材质：皮 | 套装 | 所有职业 |
+| <center><img src="/armor/a003.png"/></center> 钢铁头盔 | 防御：-3<br>安定：4<br>材质：铁 | 套装 | 骑士 |
+| <center><img src="/armor/a045.png"/></center> 骷髅头盔 | 防御：-3<br>安定：0<br>材质：骨头 | 套装 | 所有职业 |
+| <center><img src="/armor/a012.png"/></center> 法师之帽 | 防御：-2<br>安定：4<br>材质：布 | 套装 | 法师 |
+| <center><img src="/armor/a035.png"/></center> 精灵皮盔 | 防御：-1<br>安定：6<br>材质：皮 | 套装 | 妖精<br>法师<br>黑暗妖精 |
+| <center><img src="/armor/a033.png"/></center> 艾尔穆的祝福 | 防御：-2<br>安定：6<br>材质：皮 | 敏捷 +1 | 妖精 |
+| <center><img src="/armor/a032.png"/></center> 黑暗头饰 | 防御：-1<br>安定：4<br>材质：布 | 魔力回复量 +3 | 黑暗妖精 |
+| <center><img src="/armor/a044.png"/></center> 蓝海贼头巾 | 防御：-2<br>安定：4<br>材质：皮 | 套装 | 所有职业 |
+| <center><img src="/armor/a027.png"/></center> 红骑士头巾 | 防御：-2<br>安定：6<br>材质：布 | 限制等级：Lv.15 | 骑士 |
+| <center><img src="/armor/a004.png"/></center> 影子面具 | 防御：-2<br>安定：6<br>材质：布 | 限制等级：Lv.15 | 黑暗妖精 |
+| <center><img src="/armor/a039.png"/></center> 精灵体质头盔 | 防御：-1<br>安定：6<br>材质：皮 | 体质+1<br>限制等级：Lv.15 | 妖精 |
+| <center><img src="/armor/a021.png"/></center> 精灵敏捷头盔 | 防御：-1<br>安定：6<br>材质：皮 | 敏捷 +1<br>限制等级：Lv.15 | 妖精 |
+| <center><img src="/armor/a041.png"/></center> 克特头盔 | 防御：-3<br>安定：4<br>材质：铁 | 套装 | 骑士 |
+| <center><img src="/armor/a009.png"/></center> 恶魔头盔 | 防御：-2<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
+| <center><img src="/armor/a010.png"/></center> 死亡骑士头盔 | 防御：-3<br>安定：4<br>材质：铁 | 套装 | 骑士 |
+| <center><img src="/armor/a024.png"/></center> 反王头盔 | 防御：-3<br>安定：4<br>材质：铁 | 套装 | 王族 |
+| <center><img src="/armor/a042.png"/></center> 赛尼斯头箍 | 防御：-3<br>安定：4<br>材质：铁 | 套装 | 法师 |
+| <center><img src="/armor/a006.png"/></center> 骑士面甲 | 防御：-3<br>安定：4<br>材质：铁 |  | 骑士 |
+| <center><img src="/armor/a013.png"/></center> 敏捷魔法头盔 | 防御：-1<br>安定：4<br>材质：米索莉 | 可以施展法术：通畅气脉术、加速术 | 王族<br>骑士 |
+| <center><img src="/armor/a014.png"/></center> 治愈魔法头盔 | 防御：-1<br>安定：4<br>材质：米索莉 | 可以施展法术：初级治愈术、中级治愈术 | 王族<br>骑士 |
+| <center><img src="/armor/a015.png"/></center> 力量魔法头盔 | 防御：-1<br>安定：4<br>材质：米索莉 | 可以施展法术：<br>拟似施展魔法、体魄强健术、无所遁形术 | 王族<br>骑士 |
+| <center><img src="/armor/a014.png"/></center> 夜视头盔 | 防御：-1<br>安定：4<br>材质：米索莉 | 夜间视力 | 王族<br>骑士<br>法师 |
+| <center><img src="/armor/a008.png"/></center> 小型风之头盔 | 防御：-1<br>安定：4<br>材质：皮 | 限制等级：Lv.30<br>可以施展法术：加速术 | 骑士<br>妖精<br>法师 |
+| <center><img src="/armor/a023.png"/></center> 风之头盔 | 防御：-2<br>安定：4<br>材质：皮 | 限制等级：Lv.45<br>可以施展法术：加速术、强力加速术 | 法师 |
+| <center><img src="/armor/a047.png"/></center> 华丽头饰 | 防御：0<br>安定：4<br>材质：皮 | 可以看到深海隐身的怪物 | 妖精<br>法师<br>黑暗妖精 |
+| <center><img src="/armor/a016.png"/></center> 曼波帽子 | 防御：-1<br>安定：4<br>材质：皮 | 魅力 +1<br>寒冰耐性 +8 | 所有职业 |
+| <center><img src="/armor/a020.png"/></center> 武官头盔 | 防御：-2<br>安定：6<br>材质：金属 | 魔力上限 +10 | 王族<br>骑士<br>妖精<br>黑暗妖精 |
+| <center><img src="/armor/a030.png"/></center> 神官头饰 | 防御：-1<br>安定：6<br>材质：皮 | 体力上限 +10<br>魔力回复量 +1 | 王族<br>妖精<br>法师 |
+| <center><img src="/armor/a022.png"/></center> 巴兰卡头盔 | 防御：-2<br>安定：4<br>材质：皮 | 体质 +1<br>魅力 -1 | 骑士<br>妖精<br>黑暗妖精 |
+| <center><img src="/armor/a048.png"/></center> 混沌头盔 | 防御：-1<br>安定：0<br>材质：骨头 | 昏迷耐性 +9<br>限制等级：LV.45 | 所有职业 |
+| <center><img src="/armor/a017.png"/></center> 木乃伊王的王冠 | 防御：-2<br>安定：6<br>材质：金 | 敏捷 +2<br>体力回复量 +3 | 王族<br>妖精<br>黑暗妖精 |
+| <center><img src="/armor/a018.png"/></center> 马库尔之帽 | 防御：-2<br>安定：4<br>材质：布 | 智力+1 | 法师 |
+| <center><img src="/armor/a025.png"/></center> 巴土瑟之帽 | 防御：-2<br>安定：4<br>材质：布 | 魔力回复量 +5 | 法师 |
+| <center><img src="/armor/a040.png"/></center> 卡士伯之帽 | 防御：-2<br>安定：4<br>材质：布 | 魔力上限 +25 | 法师 |
+| <center><img src="/armor/a029.png"/></center> 西玛之帽 | 防御：-2<br>安定：4<br>材质：布 | 魔力上限 +15<br>魔力回复量 +2 | 法师 |
+| <center><img src="/armor/a053.png"/></center> 大法师之帽 | 防御：-2<br>安定：4<br>材质：布 | 智力 +1<br>魔力上限 +10<br>魔力回复量 +5 | 法师 |
+| <center><img src="/armor/a011.png"/></center> 抗魔法头盔 | 防御：-2<br>安定：4<br>材质：铁 | 魔法防御 +4<br>使用防卷成功+1，魔法防御也会+1 | 所有职业 |
+| <center><img src="/armor/a052.png"/></center> 真·抗魔法头盔 | 防御：-4<br>安定：4<br>材质：黑色米索莉 | 魔法防御 +8<br>使用防卷成功+1，魔法防御也会+2 | 所有职业 |
+| <center><img src="/armor/a050.png"/></center> 真·冥皇面甲 | 防御：-6<br>安定：0<br>材质：黑色米索莉 | 套装 | 骑士<br>黑暗妖精 |
+| <center><img src="/armor/a031.png"/></center> 火焰之影头盔 | 防御：0<br>安定：0<br>材质：骨头 | 套装<br>限制等级：LV.52<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a049.png"/></center> 军马头盔 | 防御：0<br>安定：6<br>材质：皮 | 变身：骑马状态<br>效果时间： 50次，可找NPC补充次数 | 王族 |
+| <center><img src="/armor/a046.png"/></center> 南瓜魔法帽 | 防御：-1<br>安定：不可强化<br>材质：皮 | 会变成稻草人，脱下即可变回来<br>体力上限 +10<br>魔力上限 +5<br>体力回复量 +1<br>魔力回复量 +1 | 所有职业 |

@@ -24,7 +24,6 @@
 | <center><img src="/armor/a552.png"/></center> 死亡的誓约 | 防御：-1<br>安定：0<br>材质：宝石 | 体力回复量 +2<br>魔力回复量 -2<br>限制等级：Lv.48 | 所有职业 |
 | <center><img src="/armor/a553.png"/></center> 伊莉丝戒指 | 防御：0<br>安定：0<br>材质：金 | 体力上限 +15<br>魔法防御 +5<br>不可转移 | 所有职业 |
 | <center><img src="/armor/a538.png"/></center> 蕾雅戒指 | 防御：5<br>安定：0<br>材质：宝石 |  | 所有职业 |
-| <center><img src="/armor/a546.png"/></center> 火焰之影戒指 | 防御：0<br>安定：0<br>材质：骨头 | 套装<br>不可转移<br>限制等级：LV.52 | 所有职业 |
 | <center><img src="/armor/a554.png"/></center> 土灵戒指(男爵) | 防御：0<br>安定：不可强化<br>材质：金 | 体力上限 +5<br>魔法防御 +2<br>地属性防御 +5<br>不可转移 | 所有职业 |
 | <center><img src="/armor/a555.png"/></center> 水灵戒指(男爵) | 防御：0<br>安定：不可强化<br>材质：金 | 体力上限 +5<br>魔法防御 +2<br>水属性防御 +5<br>不可转移 | 所有职业 |
 | <center><img src="/armor/a556.png"/></center> 火灵戒指(男爵) | 防御：0<br>安定：不可强化<br>材质：金 | 体力上限 +5<br>魔法防御 +2<br>火属性防御 +5<br>不可转移 | 所有职业 |
@@ -41,4 +40,5 @@
 | <center><img src="/armor/a555.png"/></center> 水灵戒指(君主) | 防御：0<br>安定：0<br>材质：金 | 寒冰耐性 +2<br>体力上限 +20<br>体力回复量 +1<br>魔法防御 +10<br>水属性防御 +20<br>不可转移 | 所有职业 |
 | <center><img src="/armor/a556.png"/></center> 火灵戒指(君主) | 防御：0<br>安定：0<br>材质：金 | 昏迷耐性 +2<br>体力上限 +20<br>体力回复量 +1<br>魔法防御 +10<br>火属性防御 +20<br>不可转移 | 所有职业 |
 | <center><img src="/armor/a557.png"/></center> 风灵戒指(君主) | 防御：0<br>安定：0<br>材质：金 | 睡眠耐性 +2<br>体力上限 +20<br>体力回复量 +1<br>魔法防御 +10<br>风属性防御 +20<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a546.png"/></center> 火焰之影戒指 | 防御：0<br>安定：0<br>材质：骨头 | 套装<br>限制等级：LV.52<br>不可转移 | 所有职业 |
 | <center><img src="/armor/a558.png"/></center> 曼波兔戒指 | 防御：2<br>安定：0<br>材质：骨头 | 魔法防御 +10 | 所有职业 |

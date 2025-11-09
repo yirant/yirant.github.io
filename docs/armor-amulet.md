@@ -23,7 +23,6 @@
 | <center><img src="/armor/a389.jpg"/></center> 法令军王之炼 | 防御：0<br>安定：0<br>材质：金 | 魔力上限 +15<br>魔力恢复量 +5 | 法师<br>妖精 |
 | <center><img src="/armor/a388.jpg"/></center> 冥法军王之戒 | 防御：0<br>安定：0<br>材质：金 | 魅力 +3<br>名为戒指，其实是项链 | 王族<br>法师<br>妖精 |
 | <center><img src="/armor/a479.jpg"/></center> 伊莉丝项链 | 防御：0<br>安定：0<br>材质：宝石 | 力量 +1<br>敏捷 +1<br>魅力 -1<br>不可转移<br>限制等级：LV.45 | 所有职业 |
-| <center><img src="/armor/a411.jpg"/></center> 火焰之影项链 | 防御：0<br>安定：0<br>材质：骨头 | 套装<br>不可转移<br>限制等级：LV.52 | 所有职业 |
 | <center><img src="/armor/a487.jpg"/></center> 奴隶项链 | 防御：0<br>安定：不可强化<br>材质：骨头 | 魔力上限 +25<br>不可转移 | 所有职业 |
 | <center><img src="/armor/a488.jpg"/></center> 约定项链 | 防御：0<br>安定：不可强化<br>材质：骨头 | 体力上限 +25<br>魔力上限 +25<br>不可转移 | 所有职业 |
 | <center><img src="/armor/a489.jpg"/></center> 解放项链 | 防御：0<br>安定：不可强化<br>材质：骨头 | 体力上限 +25<br>魔力上限 +50<br>不可转移 | 所有职业 |
@@ -37,4 +36,5 @@
 | <center><img src="/armor/a459.jpg"/></center> 诅咒的红色耳环 | 防御：0<br>安定：0<br>材质：金 | 套装<br>可以配戴净化之耳环来还原能力 | 所有职业 |
 | <center><img src="/armor/a460.jpg"/></center> 诅咒的蓝色耳环 | 防御：0<br>安定：0<br>材质：金 | 套装<br>可以配戴净化之耳环来还原能力 | 所有职业 |
 | <center><img src="/armor/a458.jpg"/></center> 诅咒的绿色耳环 | 防御：0<br>安定：0<br>材质：金 | 套装<br>可以配戴净化之耳环来还原能力 | 所有职业 |
+| <center><img src="/armor/a411.jpg"/></center> 火焰之影项链 | 防御：0<br>安定：0<br>材质：骨头 | 套装<br>限制等级：LV.52<br>不可转移 | 所有职业 |
 | <center><img src="/armor/a132.png"/></center> 曼波兔项链 | 防御：3<br>安定：0<br>材质：骨头 | 体力上限 +30<br>魔力上限 +30 | 所有职业 |

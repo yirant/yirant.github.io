@@ -90,6 +90,7 @@ export default {
               { text: '戒指', link: 'armor-ring' }, 
               { text: '腰带', link: 'armor-belt' }, 
               { text: '头盔', link: 'armor-helm' }, 
+              { text: '手套', link: 'armor-glove' }, 
               { text: '盔甲', link: 'armor-armor' }, 
               { text: '长靴', link: 'armor-boots' }, 
               { text: '斗篷', link: 'armor-cloak' }, 
