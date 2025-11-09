@@ -136,8 +136,45 @@
           </div>
         </div>
 
+        <!-- 武器排行榜统计 -->
+        <div v-if="isRankTable && weaponRankStatistics.length > 0" class="stat-item-group">
+          <div class="stat-group-header">
+            <span class="stat-label">武器排行榜 (共 {{ weaponRankStatistics.length }} 名):</span>
+          </div>
+          <div class="item-statistics">
+            <div 
+              v-for="(player, index) in paginatedWeaponRankStatistics" 
+              :key="`${player.name}-${index}`"
+              class="item-stat-item"
+            >
+              <span class="item-name">{{ player.name }}</span>
+              <span class="item-count">{{ player.weapon }}</span>
+            </div>
+          </div>
+          <!-- 武器排行榜分页 -->
+          <div v-if="weaponRankStatisticsPages > 1" class="statistics-pagination">
+            <button 
+              @click="goToWeaponRankPage(weaponRankCurrentPage - 1)" 
+              :disabled="weaponRankCurrentPage === 1"
+              class="pagination-btn"
+            >
+              ◀️ 上一页
+            </button>
+            <span class="pagination-info">
+              第 {{ weaponRankCurrentPage }} / {{ weaponRankStatisticsPages }} 页
+            </span>
+            <button 
+              @click="goToWeaponRankPage(weaponRankCurrentPage + 1)" 
+              :disabled="weaponRankCurrentPage === weaponRankStatisticsPages"
+              class="pagination-btn"
+            >
+              下一页 ▶️
+            </button>
+          </div>
+        </div>
+
         <!-- 高品质 蓝宝石 玩家排名统计 -->
-        <div v-if="hasItemNameField && hasPcNameField" class="stat-item-group">
+        <div v-if="hasItemNameField && hasPcNameField && !isRankTable" class="stat-item-group">
           <div class="stat-group-header">
             <span class="stat-label">"高品质 蓝宝石" 玩家排名 (共 {{ gemPlayerStatistics.length }} 名):</span>
           </div>
@@ -498,11 +535,17 @@ const props = defineProps({
   showStatistics: {
     type: Boolean,
     default: false
+  },
+  // 新增：自定义 API 端点
+  apiEndpoint: {
+    type: String,
+    default: ''
   }
 })
 
 // API 配置
 const API_BASE = 'https://api.yirant.com/api'
+// const API_BASE = 'http://localhost:3001/api'
 
 // 响应式数据
 const data = ref([])
@@ -550,6 +593,24 @@ const hasPcNameField = computed(() => {
 
 const hasNacNameField = computed(() => {
   return displayedColumns.value.includes('nacName')
+})
+
+const hasCharNameField = computed(() => {
+  return displayedColumns.value.includes('char_name')
+})
+
+const hasEnchantlvlField = computed(() => {
+  return displayedColumns.value.includes('enchantlvl')
+})
+
+const hasWeaponInfoField = computed(() => {
+  return displayedColumns.value.includes('weapon_info')
+})
+
+// 判断是否是排行榜
+const isRankTable = computed(() => {
+  return props.apiEndpoint?.includes('/rank') || 
+         props.tableName?.includes('rank')
 })
 
 // 判断是否是 PK 表
@@ -641,6 +702,47 @@ const paginatedGemPlayerStatistics = computed(() => {
 function goToGemPlayerPage(page) {
   if (page >= 1 && page <= gemPlayerStatisticsPages.value) {
     gemPlayerCurrentPage.value = page
+  }
+}
+
+// 武器排行榜统计
+const weaponRankStatistics = computed(() => {
+  if (!isRankTable.value || !hasCharNameField.value) return []
+  
+  const stats = []
+  
+  filteredData.value.forEach(row => {
+    const charName = row.char_name || '未知玩家'
+    const weaponInfo = row.weapon_info || `${row.enchantlvl || ''} ${row.item_name || row.item_id || ''}`.trim()
+    
+    if (weaponInfo) {
+      stats.push({
+        name: charName,
+        weapon: weaponInfo
+      })
+    }
+  })
+  
+  return stats
+})
+
+// 武器排行榜分页相关
+const weaponRankPageSize = ref(10)
+const weaponRankCurrentPage = ref(1)
+
+const weaponRankStatisticsPages = computed(() => {
+  return Math.ceil(weaponRankStatistics.value.length / weaponRankPageSize.value)
+})
+
+const paginatedWeaponRankStatistics = computed(() => {
+  const start = (weaponRankCurrentPage.value - 1) * weaponRankPageSize.value
+  const end = start + weaponRankPageSize.value
+  return weaponRankStatistics.value.slice(start, end)
+})
+
+function goToWeaponRankPage(page) {
+  if (page >= 1 && page <= weaponRankStatisticsPages.value) {
+    weaponRankCurrentPage.value = page
   }
 }
 
@@ -1116,20 +1218,38 @@ async function fetchData() {
   try {
     const startTime = Date.now()
     
-    const params = new URLSearchParams({
-      table: props.tableName
-      // 不传递 limit 参数，让后端返回所有数据
-    })
+    // 如果提供了自定义 API 端点，使用它；否则使用默认的 /data 接口
+    let apiUrl
+    if (props.apiEndpoint) {
+      // 自定义端点，支持查询参数
+      const params = new URLSearchParams()
+      if (props.fields) {
+        params.append('fields', props.fields)
+      }
+      if (props.orderBy) {
+        params.append('orderBy', props.orderBy)
+      }
+      const queryString = params.toString()
+      apiUrl = `${API_BASE}${props.apiEndpoint}${queryString ? `?${queryString}` : ''}`
+    } else {
+      // 默认使用 /data 接口
+      const params = new URLSearchParams({
+        table: props.tableName
+        // 不传递 limit 参数，让后端返回所有数据
+      })
 
-    if (props.fields) {
-      params.append('fields', props.fields)
+      if (props.fields) {
+        params.append('fields', props.fields)
+      }
+
+      if (props.orderBy) {
+        params.append('orderBy', props.orderBy)
+      }
+
+      apiUrl = `${API_BASE}/data?${params}`
     }
 
-    if (props.orderBy) {
-      params.append('orderBy', props.orderBy)
-    }
-
-    const response = await fetch(`${API_BASE}/data?${params}`)
+    const response = await fetch(apiUrl)
     const result = await response.json()
 
     const endTime = Date.now()

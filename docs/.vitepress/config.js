@@ -9,6 +9,7 @@ export default {
     logo:'./logo.png',
     nav: [
       { text: '首页', link: '/' },
+      { text: '排行榜', link: 'rank' },
       { text: '掉宝查询', link: '/drop' },
       { text: '击杀查询', link: '/pk' },
       {
@@ -45,6 +46,7 @@ export default {
         text: '实时数据',
         collapsed: false,
         items: [
+          { text: '排行榜', link: '/rank' },
           { text: '掉宝查询', link: '/drop' },
           { text: '击杀查询', link: '/pk' },
           { text: '怪物掉落', link: '/droplist' },
