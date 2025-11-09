@@ -26,5 +26,6 @@
 | <center><img src="/armor/a576.png"/></center> 伊娃之盾 | 防御：-3<br>安定：4<br>材质：银 | 体力上限 +20<br>1段加速<br>限制等级：Lv.40 | 所有职业 |
 | <center><img src="/armor/a567.png"/></center> 玛那水晶球<br><font color=33CC99>(未开放)</font> | 防御：-2<br>安定：4<br>材质：玻璃 | 智力 +1<br>魔力上限 +100<br>限制等级：Lv.50<br>不可转移 | 法师 |
 | <center><img src="/armor/a582.png"/></center> 幻象眼魔的心眼 | 防御：0<br>安定：6<br>材质：纸 | 智力 +1<br>魔力上限 +100<br>魔力回复量 +2<br>石化耐性 +30 | 法师 |
+| <center><img src="/armor/a647.png"/></center> 守护者之盾 | 防御：-1<br>安定：4<br>材质：白金 |体力上限+50<br>昏迷耐性+3<br>不可转移 | 所有职业 |
 | <center><img src="/armor/a589.png"/></center> 古代斗士臂甲 | 防御：0<br>安定：0<br>材质：黑色米索莉 | 额外攻击点数 +1<br>火属性防御 +5<br>水属性防御+5<br>风属性防御+5<br>地属性防御+5 | 所有职业 |
 | <center><img src="/armor/a588.png"/></center> 古代神射臂甲 | 防御：0<br>安定：0<br>材质：黑色米索莉 | 远距离攻击 +1<br>体力上限 +80 | 所有职业 |
