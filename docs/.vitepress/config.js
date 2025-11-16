@@ -24,7 +24,7 @@ export default {
 
     sidebar: [
     {
-        text: '指南',
+        text: '欢迎',
         collapsed: false,
         items: [
           { text: '指南', link: '/landing' },

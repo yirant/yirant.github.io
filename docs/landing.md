@@ -1,4 +1,4 @@
-![VitePress Logo](landing.jpg)
+![VitePress Logo](./landing.jpg)
 # 指南
 ## 下载安装
 ### [下载](download)   |   [安装](install)   |   [登录](login)

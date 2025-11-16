@@ -19,7 +19,7 @@ hero:
 features:
   - icon: 💯
     title: 长久稳定
-    details: 2021年夏首区开放至今，良好的人气基础和口碑。
+    details: 2021年首区开放至今，良好的人气基础和口碑。
   - icon: ⚡️
     title: 特色内容
     details: 战斗特化、防爆卷轴、防官强化、比武擂台等特色。
