@@ -10,8 +10,8 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
-      text: 版本介绍 📑
-      link: /basicsetting
+      text: 立即访问 
+      link: /landing
     - theme: alt
       text: 高速下载 🚀
       link: /download
@@ -23,7 +23,7 @@ features:
   - icon: ⚡️
     title: 特色内容
     details: 战斗特化、防爆卷轴、防官强化、比武擂台等特色。
-  - icon: 🛠️
+  - icon: 📑
     title: 持续更新
     details: 定期更新内容、每月开放活动，长期在线提供服务。
 ---

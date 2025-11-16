@@ -13,9 +13,9 @@
 | <center><img src="/armor/a625.png"/></center> 黑暗栖林者长靴 | 防御：-2<br>安定：4<br>材质：皮 | 体力上限 +30 | 骑士<br>妖精<br>黑暗妖精 |
 | <center><img src="/armor/a638.png"/></center> 黑暗长靴 | 防御：-2<br>安定：6<br>材质：布 | 敏捷 +1 | 黑暗妖精 |
 | <center><img src="/armor/a644.png"/></center> 蓝海贼长靴 | 防御：-2<br>安定：4<br>材质：皮 | 套装 | 所有职业 |
+| <center><img src="/armor/a641.png"/></center> 克特长靴 | 防御：-3<br>安定：4<br>材质：铁 | 套装 | 骑士 |
 | <center><img src="/armor/a626.png"/></center> 恶魔长靴 | 防御：-3<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
 | <center><img src="/armor/a627.png"/></center> 死亡骑士长靴 | 防御：-3<br>安定：4<br>材质：铁 | 套装 | 骑士 |
-| <center><img src="/armor/a641.png"/></center> 克特长靴 | 防御：-3<br>安定：4<br>材质：铁 | 套装 | 骑士 |
 | <center><img src="/armor/a632.png"/></center> 反王长靴 | 防御：-3<br>安定：4<br>材质：铁 | 套装 | 王族 |
 | <center><img src="/armor/a642.png"/></center> 赛尼斯长靴 | 防御：-2<br>安定：4<br>材质：铁 | 套装 | 法师 |
 | <center><img src="/armor/a628.png"/></center> 拉斯塔巴德长靴 | 防御：-2<br>安定：4<br>材质：皮 |  | 所有职业 |

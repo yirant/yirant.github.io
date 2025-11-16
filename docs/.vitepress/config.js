@@ -23,6 +23,14 @@ export default {
     ],
 
     sidebar: [
+    {
+        text: '指南',
+        collapsed: false,
+        items: [
+          { text: '指南', link: '/landing' },
+
+        ]
+      },
       {
         text: '下载安装',
         collapsed: false,
@@ -58,7 +66,7 @@ export default {
         items: [
           {
             text: '• 属性',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: '力量', link: 'attribute-str' },
               { text: '敏捷', link: 'attribute-dex' },
@@ -70,7 +78,7 @@ export default {
           },
           {
             text: '• 武器',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: '单手剑', link: 'weapon-sword' },
               { text: '双手剑', link: 'weapon-twohandsword' },
@@ -85,7 +93,7 @@ export default {
           },
           {
             text: '• 防具',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: '项链', link: 'armor-amulet' },
               { text: '耳环', link: 'armor-earring' },              
