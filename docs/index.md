@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "重温天堂梦"
   text: "依燃是少年"
-  tagline: 传承并重新诠释天堂的故事和世界
+  tagline: 传承并重新诠释天堂的故事与经典
   image:
     src: ./logo-prince.png
     alt: VitePress

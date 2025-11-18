@@ -1,7 +1,7 @@
 # 长靴 Boots
 | 名称 | 基础 | 属性| 职业 |
 | :--: | :--- | :---| :--- |
-| <center><img src="/armor/a620.png"/></center> 象牙塔皮凉鞋 | 防御：-1<br>安定：不可强化<br>材质：皮 | 体力上限 +10<br>魔力上限 +5<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a620.png"/></center> 象牙塔皮凉鞋 | 防御：-1<br>安定：不可强化<br>材质：皮 | 不可转移 | 所有职业 |
 | <center><img src="/armor/a621.png"/></center> 泡水的靴子 | 防御：-2<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
 | <center><img src="/armor/a640.png"/></center> 短统靴 | 防御：-1<br>安定：4<br>材质：皮 |  | 所有职业 |
 | <center><img src="/armor/a622.png"/></center> 皮凉鞋 | 防御：0<br>安定：4<br>材质：皮 | 套装 | 所有职业 |

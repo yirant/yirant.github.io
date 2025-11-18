@@ -1,7 +1,7 @@
 # 头盔 Helmet
 | 名称 | 基础 | 属性| 职业 |
 | :--: | :--- | :---| :--- |
-| <center><img src="/armor/a028.png"/></center> 象牙塔皮头盔 | 防御：-1<br>安定：不可强化<br>材质：布 | 体力上限 +10<br>魔力上限 +5<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a028.png"/></center> 象牙塔皮头盔 | 防御：-1<br>安定：不可强化<br>材质：布 | 不可转移 | 所有职业 |
 | <center><img src="/armor/a051.png"/></center> 泡水的头具 | 防御：-1<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
 | <center><img src="/armor/a007.png"/></center> 侏儒铁盔 | 防御：-2<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
 | <center><img src="/armor/a034.png"/></center> 欧西斯头盔 | 防御：-1<br>安定：4<br>材质：铁 | 套装 | 所有职业 |

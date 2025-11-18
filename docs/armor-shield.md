@@ -1,7 +1,7 @@
 # 盾牌 Shield
 | 名称 | 基础 | 属性| 职业 |
 | :--: | :--- | :---| :--- |
-| <center><img src="/armor/a560.png"/></center> 象牙塔皮盾牌 | 防御：-1<br>安定：不可强化<br>材质：皮 | 体力上限 +10<br>魔力上限 +5<br>不可转移 | 所有职业 |
+| <center><img src="/armor/a560.png"/></center> 象牙塔皮盾牌 | 防御：-1<br>安定：不可强化<br>材质：皮 | 不可转移 | 所有职业 |
 | <center><img src="/armor/a581.png"/></center> 泡水的盾牌 | 防御：-1<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
 | <center><img src="/armor/a561.png"/></center> 皮盾牌 | 防御：-1<br>安定：4<br>材质：皮 | 套装 | 所有职业 |
 | <center><img src="/armor/a564.png"/></center> 木盾 | 防御：-1<br>安定：4<br>材质：木 | 套装 | 所有职业 |
