@@ -3,11 +3,11 @@
 | :--: | :--- | :---| :--- |
 | <center><img src="/armor/a028.png"/></center> 象牙塔皮头盔 | 防御：-1<br>安定：不可强化<br>材质：布 | 不可转移 | 所有职业 |
 | <center><img src="/armor/a051.png"/></center> 泡水的头具 | 防御：-1<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
-| <center><img src="/armor/a007.png"/></center> 侏儒铁盔 | 防御：-2<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
-| <center><img src="/armor/a034.png"/></center> 欧西斯头盔 | 防御：-1<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
 | <center><img src="/armor/a001.png"/></center> 皮帽子 | 防御：0<br>安定：4<br>材质：皮 | 套装 | 所有职业 |
 | <center><img src="/armor/a043.png"/></center> 钢盔 | 防御：-1<br>安定：4<br>材质：铁 |  | 所有职业 |
 | <center><img src="/armor/a002.png"/></center> 皮头盔 | 防御：-1<br>安定：4<br>材质：皮 |  | 所有职业 |
+| <center><img src="/armor/a034.png"/></center> 欧西斯头盔 | 防御：-1<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
+| <center><img src="/armor/a007.png"/></center> 侏儒铁盔 | 防御：-2<br>安定：4<br>材质：铁 | 套装 | 所有职业 |
 | <center><img src="/armor/a028.png"/></center> 银钉皮帽 | 防御：-2<br>安定：4<br>材质：皮 | 套装 | 所有职业 |
 | <center><img src="/armor/a003.png"/></center> 钢铁头盔 | 防御：-3<br>安定：4<br>材质：铁 | 套装 | 骑士 |
 | <center><img src="/armor/a045.png"/></center> 骷髅头盔 | 防御：-3<br>安定：0<br>材质：骨头 | 套装 | 所有职业 |
